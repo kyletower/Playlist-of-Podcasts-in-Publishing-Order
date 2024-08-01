@@ -35,7 +35,7 @@ You may update the code to handle that case how you wish (i.e. update the playli
    ```bash
    pip install --upgrade pip
    pip install spotipy
-   pip install python-dev
+   pip install python-dotenv
    ```
 
 8. Create (or use) your Spotify Developer Account
