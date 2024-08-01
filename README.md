@@ -47,3 +47,11 @@ You may update the code to handle that case how you wish (i.e. update the playli
     SPOTIPY_CLIENT_SECRET=your_client_secret
     SPOTIPY_REDIRECT_URI=http://localhost:8888/callback
     ```
+
+11. Run the app in the command line
+
+    ```bash
+    python app.py
+    ````
+
+12. Open the Spotify Web App, Mobile App, or Desktop App and view the new playlist. 
